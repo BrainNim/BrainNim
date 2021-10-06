@@ -69,21 +69,21 @@
 
 
 
-## 사용기술
-### python
+## 스택
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlowk&logoColor=white"/></a>
-- word2vec
-- OpenSesame
-
-### DB
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/word2vec-071D49?style=flat-square&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenSesame-40AEF0?style=flat-square&logo=&logoColor=white"/></a>
+  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-
-### cloud
+  
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-
+  
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MATLAB-DC3710?style=flat-square&logo=&logoColor=white"/></a>
 
 
 ## 개인활동
