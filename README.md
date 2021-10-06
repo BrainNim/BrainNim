@@ -23,7 +23,8 @@
 <details markdown="1">
   <summary>데이터(접기/펼치기)</summary>
   
-- 2021  
+- 2021 
+  - 추천서비스 사업자를 위한 추천모델 생성 및 추천서비스 제공 클라우드 시스템 및 솔루션 
   - 텍스트 데이터(해시태그) 활용, 아이템유사도 기반 원클릭 코스추천 서비스 알고리즘 업그레이드  
   - 이용자 취향 맞춤형 지역기반 간편 코스 제작 알고리즘(맞춤코스 서비스) 설계 및 제작, flask 활용 앱 내 서비스화  
 - 2020  
@@ -70,18 +71,18 @@
 
 ## 사용기술
 ### python
-- scikit-learn
-- flask
-- tensorflow
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlowk&logoColor=white"/></a>
 - word2vec
 - OpenSesame
 
 ### DB
-- MYSQL
-- SQLite
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 
 ### cloud
-- AWS
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
 
 
