@@ -89,10 +89,10 @@
 
 ## 개인활동
 #### 프로젝트
-- 21년 내 주식종목탐색 어플리케이션 제작, 배포를 목표로 하자! [(링크)](https://github.com/BrainNim/StockSearch)
+- 주식종목탐색 어플리케이션 제작, 배포를 목표로 하자! [(링크)](https://github.com/BrainNim/StockSearch)
 - 데이콘 참여해보기
   - 전력사용량 예측 AI 경진대회[(베이스라인코드)](https://dacon.io/competitions/official/235736/codeshare/2680?page=2&dtype=recent): 첫 참여, 20% 이내 목표였는데 27%밖에 못했다ㅠㅠ
-  - 다음목표: 재밌어 보이는 대회 하나 찾아서 20% 이내를 목표로 올해 안에 다시 도전
+  - 다음목표: 재밌어 보이는 대회 하나 찾아서 20% 이내를 목표로 다시 도전
 
 #### 공부
 - 웹 개발
