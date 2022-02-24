@@ -42,7 +42,7 @@
   <summary>뇌과학(접기/펼치기)</summary>
   
 - 2021  
-  - TV광고 시청시 발생하는 비대칭뇌파반응(FAA)을 통한 광고시청자의 Approach/Withdrawal 관련 연구(석사논문)  
+  - TV광고 시청시 발생하는 비대칭뇌파반응(FAA)을 통한 광고시청자의 Approach/Withdrawal 관련 연구[(석사논문 링크)](http://www.dcollection.net/handler/konkuk/200000588938)
   - rest상태시 발생하는 비대칭뇌파반응(FAA)의 신경생리학적 지표로서의 가능성 연구[(링크)](http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010028379453)  
 - 2020  
   - fMRI 빅데이터 분석연구 보조(학술연구, MatLab 코딩)  
